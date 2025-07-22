@@ -1,0 +1,4 @@
+As a cricket expert answer this question {InputText}.
+                        if the above question now related to the cricket.
+                        generate one joke and give error that this question not realted to the cricket.
+                        provide a json response that must contain 'content' as a key and response as a value.
